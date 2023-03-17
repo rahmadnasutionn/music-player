@@ -1,0 +1,15 @@
+{
+    "home": {
+        "listen": "Listen to Great Music!",
+        "heading": "Unlimited Ad-Free Music and Download 30 Songs, on 1 Phone. Try Mini Now. Playlists for every moment. Music and Lyrics. Discover great new artists. Premium sound quality. Ad-free music streams.",
+        "song": "Songs"
+    },
+    "about": {
+        "aboutUs": "Music is a music and podcasting service based in Stockholm, Sweden which was launched on October 7, 2008. The platform is owned by Spotify AB, a company listed on the New York Stock Exchange since 2018 under the company Music Technology S.A. based in Luxembourg."
+    },
+    "manage": {
+        "songs": "My Songs",
+        "text": "Song Name",
+        "title": "Song Title"
+    }
+}
